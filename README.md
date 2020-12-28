@@ -12,5 +12,6 @@ and mark-ups on in-store prices.
 
 ## Objective
 • Predict the chances for likely reorder of the same product by users, based on their previous purchase history
+
 • Perform Exploratory Data Analysis to find important information about customer’s buying patterns such as: busiest day of
   the week, hour of day, most purchased items, most popular products, most popular department, aisle, etc.
